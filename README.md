@@ -9,7 +9,15 @@
 - <b>Python Delivery Application (NearestNeighborAlgo, Hashtable, and User CLI)</b>
   - [Package Delivery Project (Datastructures and Algorithms Demo)](https://github.com/RenaeVillarreal/PackageDeliveryProject)
 
+<h2>📄 Certifications</h2>
+
+- [Linux Professional Institute (LPI) Linux Essentials 010 certification](https://i.imgur.com/3Tw6Lge.png)
+  
+- [ITIL 4 Foundation Certificate in IT Service Management](https://i.imgur.com/VwsvATe.png)
+
+
 <h2> 🤳 Connect with me:</h2>
+
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
