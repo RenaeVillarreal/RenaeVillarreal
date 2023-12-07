@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Breast Cancer Prediction Application (Support Vector Machine(SVM), and Machine Learning Components)</b>
+- <b>Breast Cancer Prediction Application Average %95 Accuracy(Support Vector Machine(SVM), Training, Testing, and Machine Learning Components)</b>
   - [Breast Cancer Prediction Model](https://github.com/RenaeVillarreal/BreastCancerPrediction)
 
 
