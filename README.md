@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Breast Cancer Prediction Application (Support Vector Machine(SVM), and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Breast Cancer Prediction Model](https://github.com/RenaeVillarreal/BreastCancerPrediction)
 
 
 - <b>Python Delivery Application (NearestNeighborAlgo, Hashtable, and User CLI)</b>
