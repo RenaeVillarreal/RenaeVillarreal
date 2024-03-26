@@ -8,7 +8,7 @@
 
 - <b>Python Delivery Application (NearestNeighborAlgo, Hashtable, and User CLI)</b>
   - [Package Delivery Project (Datastructures and Algorithms Demo)](https://github.com/RenaeVillarreal/PackageDeliveryProject)
-- <b>Java Landon Hotel Website (Fullstack)</b>
+- <b>Java Landon Hotel Website (Fullstack/SpringBoot)</b>
   - [Landon Hotel Website](https://github.com/RenaeVillarreal/Landon_Hotel_Website)
 
 <h2>📄 Certifications</h2>
